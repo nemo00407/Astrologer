@@ -103,5 +103,5 @@ def get_life_number(year=1900, month=1, day=1) -> int:
             p+=1
         life_number_1 = life_number_1_
     life_number = life_number_1
-    return life_number
+    return life_numbr
 
